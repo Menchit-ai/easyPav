@@ -1,0 +1,13 @@
+E:\rhino\easyPav\bin\Debug\net48\easyPav.rhp
+E:\rhino\easyPav\bin\Debug\net48\easyPav.pdb
+E:\rhino\easyPav\obj\Debug\net48\easyPav.csproj.AssemblyReference.cache
+E:\rhino\easyPav\obj\Debug\net48\easyPav.DiameterWindow.resources
+E:\rhino\easyPav\obj\Debug\net48\easyPav.csproj.GenerateResource.cache
+E:\rhino\easyPav\obj\Debug\net48\easyPav.GeneratedMSBuildEditorConfig.editorconfig
+E:\rhino\easyPav\obj\Debug\net48\easyPav.AssemblyInfoInputs.cache
+E:\rhino\easyPav\obj\Debug\net48\easyPav.AssemblyInfo.cs
+E:\rhino\easyPav\obj\Debug\net48\easyPav.csproj.CoreCompileInputs.cache
+E:\rhino\easyPav\obj\Debug\net48\easyPav.rhp
+E:\rhino\easyPav\obj\Debug\net48\easyPav.pdb
+E:\rhino\easyPav\obj\Debug\net48\easyPav.Resource1.resources
+E:\rhino\easyPav\obj\Debug\net48\easyPav.g.resources
