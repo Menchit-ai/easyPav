@@ -11,8 +11,6 @@ namespace easyPav
     {
         public Gem() { }
 
-        private Brep _instance;
-
         public Brep GetGem()
         {
             return LoadGem();

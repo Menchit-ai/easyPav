@@ -3,7 +3,6 @@ E:\rhino\easyPav\bin\Debug\net7.0-windows\easyPav.runtimeconfig.json
 E:\rhino\easyPav\bin\Debug\net7.0-windows\easyPav.rhp
 E:\rhino\easyPav\bin\Debug\net7.0-windows\easyPav.pdb
 E:\rhino\easyPav\obj\Debug\net7.0-windows\easyPav.csproj.AssemblyReference.cache
-E:\rhino\easyPav\obj\Debug\net7.0-windows\easyPav.Form.resources
 E:\rhino\easyPav\obj\Debug\net7.0-windows\easyPav.csproj.GenerateResource.cache
 E:\rhino\easyPav\obj\Debug\net7.0-windows\easyPav.GeneratedMSBuildEditorConfig.editorconfig
 E:\rhino\easyPav\obj\Debug\net7.0-windows\easyPav.AssemblyInfoInputs.cache
@@ -16,3 +15,7 @@ E:\rhino\easyPav\obj\Debug\net7.0-windows\easyPav.genruntimeconfig.cache
 E:\rhino\easyPav\obj\Debug\net7.0-windows\ref\easyPav.rhp
 E:\rhino\easyPav\obj\Debug\net7.0-windows\easyPav.Resource1.resources
 E:\rhino\easyPav\obj\Debug\net7.0-windows\easyPav.g.resources
+E:\rhino\easyPav\obj\Debug\net7.0-windows\easyPav.PavingForm.resources
+E:\rhino\easyPav\obj\Debug\net7.0-windows\easyPav.MoveObjectsForm.resources
+E:\rhino\easyPav\obj\Debug\net7.0-windows\easyPav.sourcelink.json
+E:\rhino\easyPav\obj\Debug\net7.0-windows\easyPav.DiameterCountForm.resources

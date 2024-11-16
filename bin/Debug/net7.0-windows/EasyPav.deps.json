@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "EasyPav/1.0": {
+      "easyPav/1.0": {
         "dependencies": {
           "Grasshopper": "8.0.23304.9001"
         },
         "runtime": {
-          "EasyPav.rhp": {}
+          "easyPav.rhp": {}
         }
       },
       "Grasshopper/8.0.23304.9001": {
@@ -23,7 +23,7 @@
     }
   },
   "libraries": {
-    "EasyPav/1.0": {
+    "easyPav/1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

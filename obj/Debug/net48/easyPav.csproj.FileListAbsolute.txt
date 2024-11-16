@@ -11,3 +11,6 @@ E:\rhino\easyPav\obj\Debug\net48\easyPav.rhp
 E:\rhino\easyPav\obj\Debug\net48\easyPav.pdb
 E:\rhino\easyPav\obj\Debug\net48\easyPav.Resource1.resources
 E:\rhino\easyPav\obj\Debug\net48\easyPav.g.resources
+E:\rhino\easyPav\obj\Debug\net48\easyPav.sourcelink.json
+E:\rhino\easyPav\obj\Debug\net48\easyPav.MoveObjectsWindow.resources
+E:\rhino\easyPav\obj\Debug\net48\easyPav.DiameterCountWindow.resources

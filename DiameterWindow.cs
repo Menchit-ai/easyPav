@@ -1,18 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace easyPav
 {
-    public class Form : System.Windows.Forms.Form
+    public class PavingForm : System.Windows.Forms.Form
     {
+        [DllImport("user32.dll")]
+        private static extern IntPtr SetParent(IntPtr hWndChild, IntPtr hWndNewParent);
 
-        public Form()
+        public PavingForm()
         {
             InitializeComponent();
+            // Set Rhino as the owner of this window
+            var rhinoMainWindowHandle = Rhino.RhinoApp.MainWindowHandle();
+            SetParent(this.Handle, rhinoMainWindowHandle);
         }
 
 
@@ -44,7 +50,7 @@ namespace easyPav
             // 
             // diameter_value
             // 
-            diameter_value.DecimalPlaces = 1;
+            diameter_value.DecimalPlaces = 2;
             diameter_value.Increment = new decimal(new int[] { 1, 0, 0, 65536 });
             diameter_value.Location = new System.Drawing.Point(72, 18);
             diameter_value.Name = "diameter_value";
@@ -71,15 +77,16 @@ namespace easyPav
             label1.Size = new System.Drawing.Size(163, 15);
             label1.TabIndex = 3;
             label1.Text = "Afficher diamètres des pierres";
+            label1.Click += label1_Click;
             // 
-            // Form
+            // PavingForm
             // 
             AutoSize = true;
             ClientSize = new System.Drawing.Size(226, 294);
             Controls.Add(label1);
             Controls.Add(diameter_label);
             Controls.Add(diameter_value);
-            Name = "Form";
+            Name = "PavingForm";
             Text = "EzPav";
             TopMost = true;
             Load += DiameterWindow_Load;
@@ -112,6 +119,11 @@ namespace easyPav
         }
 
         private void DiameterWindow_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }
