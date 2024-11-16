@@ -120,7 +120,7 @@ namespace easyPav
 
     public class ComputeNomenclatureCommand: Command
     {
-        public override string EnglishName => "easyNomenc";
+        public override string EnglishName => "EasyNomenclature";
 
         private static DiameterCountForm _form;
 

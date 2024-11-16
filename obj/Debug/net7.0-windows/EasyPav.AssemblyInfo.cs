@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Description of easyPav")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+fed73be3cc420acb36c3602cabcefe841bb1a540")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2d7d912ce4f3060a7495bb5ae72b7cba557c10fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("easyPav")]
 [assembly: System.Reflection.AssemblyTitleAttribute("easyPav")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
